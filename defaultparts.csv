@@ -1,0 +1,18 @@
+Type,Brand,Model,Initial Distance (km),Replacement Interval (km),Periodic,Installed (Normal),Installed (Virtual),Visible
+Chain Wax,,,0,200,Yes,Yes,Yes,Yes
+Sealant,,,0,5000,Yes,Yes,No,Yes
+Chain,,,0,5000,No,Yes,Yes,Yes
+Front Brake Pads,,,0,5000,No,Yes,No,Yes
+Rear Brake Pads,,,0,5000,No,Yes,No,Yes
+Front Tire,,,0,5000,No,Yes,No,Yes
+Rear Tire,,,0,5000,No,Yes,No,Yes
+Bar Tape,,,0,10000,No,Yes,Yes,Yes
+Front Rotor,,,0,15000,No,Yes,No,Yes
+Rear Rotor,,,0,15000,No,Yes,No,Yes
+Sprocket,,,0,20000,No,Yes,No,Yes
+Chainrings,,,0,40000,No,Yes,Yes,Yes
+Bottom Bracket,,,0,20000,No,Yes,Yes,Yes
+Front Wheel,,,0,0,No,Yes,No,Yes
+Rear Wheel,,,0,0,No,Yes,No,Yes
+Pedals,,,0,0,No,Yes,Yes,Yes
+Saddle,,,0,0,No,Yes,Yes,Yes
